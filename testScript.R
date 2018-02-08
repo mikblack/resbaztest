@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 library(magrittr)
 library(ggplot2)
 
